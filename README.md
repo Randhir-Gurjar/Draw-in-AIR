@@ -14,6 +14,9 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 4) Detect the contours, find the center coordinates of largest contour and keep storing them in the array for successive frames.(Arrays for drawing points on canvas)
 5) Finally draw the points stored in array on the frames and canvas 
 
+# Requirements:
+python3 , numpy , opencv.
+
 # Here are some insights
 ![](images/Screenshot%20(93).png)
 ![](images/Screenshot%20(95).png)
